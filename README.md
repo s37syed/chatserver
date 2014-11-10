@@ -1,4 +1,4 @@
-p2p-server
+chatserver
 ==========
 The project was for an intro to Computer Networking course. The goal of the project was to create a multithreaded server, so that multiple clients could connect to it. 
 
